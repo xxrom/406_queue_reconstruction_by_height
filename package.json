@@ -1,0 +1,6 @@
+{
+  "name": "406_queue_reconstruction_by_height",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+,"scripts": { "dev": "nodemon --exec python3 main.py ./main.py" }}
